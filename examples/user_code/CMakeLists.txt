@@ -1,5 +1,7 @@
 # Uncomment these lines with your custom file names
-# set(USER_CODE_FILES
+set(USER_CODE_FILES
+/home/blackhawk/interactive-audio-visualizer/libraries/openpose/examples/user_code/1camera.cpp)
+# /home/blackhawk/interactive-audio-visualizer/libraries/openpose/examples/user_code/2attempt.cpp/2attempt.cpp)
 #     ADD_HERE_YOUR_FILE1.cpp
 #     ADD_HERE_YOUR_FILE1.hpp
 #     ADD_HERE_YOUR_FILE2.cpp
